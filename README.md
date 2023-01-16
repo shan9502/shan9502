@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shan9502
-- 👀 I’m interested in Data Engineer/Python programming.
-- 🌱 I’m currently learning python, sql, excel, tableau.
-- 💞️ I’m looking to collaborate on health/geo-analyticals
+- 👀 I’m interested in Data Engineering/Python programming.
+- 🌱 I’m currently learning Golang, Pogresql, Hadoop, Kafka.
+- 💞️ I’m looking to collaborate with Data and Cyber-security
 - 📫 How to reach me [shanshan9502@gmail.com]
 
 <!---
