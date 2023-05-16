@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shan9502
 - 👀 I’m interested in Data Engineering/Software Development.
-- 🌱 I’m currently learning Golang, MongoDb, Hadoop, Kafka.
+- 🌱 I’m currently learning Angular, DRF, MongoDb.
 - 💞️ I’m looking to collaborate with Data and Cyber-security
 - 📫 How to reach me [shanshan9502@gmail.com]
 
